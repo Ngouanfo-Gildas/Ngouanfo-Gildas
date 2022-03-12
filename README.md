@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ngouanfo-Gildas
-- 👀 I’m interested in IoT, API REST and Android programming
-- 🌱 I’m currently learning IoT & Android
+- 👀 I’m interested by IoT, API REST, network, python, django and Android programming
+- 🌱 I’m currently learning IoT, python, django and mongoDB
 - 💞️ I’m looking to collaborate on IoT project
 - 📫 How to reach me ngouanfogildas@gmail.com
 
